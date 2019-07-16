@@ -1,3 +1,0 @@
-print("aksiaslfdhlkajdh")
-print("asdfadfbadf")
-
